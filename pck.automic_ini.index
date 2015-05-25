@@ -16,8 +16,8 @@
   },
   "company" : "Automic Software GmbH",
   "homepage" : "www.automic.com",
-  "license" : "",
+  "license" : "abc",
   "categories" : "INI, File manipulation",
   "packageFormatVersion" : "0.1.0",
-  "title" : "Automic INI manipulation"
+  "title" : "Automic INI manipulation_"
 }
